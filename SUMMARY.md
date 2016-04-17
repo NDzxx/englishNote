@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [UNLOCK](chapter1.md)
-   * Episode1
+   * [Episode1](episode1.md)
 

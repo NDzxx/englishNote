@@ -4,4 +4,5 @@
 * [UNLOCK](chapter1.md)
    * [Episode1](episode1.md)
    * [Episode2](episode2.md)
+   * Episode4
 

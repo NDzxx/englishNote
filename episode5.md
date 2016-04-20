@@ -15,5 +15,5 @@ skim 浏览
 magazine 杂志  
 
 ##语法
-singular(单数) and plural（复数） nouns（名词）
-verbs （动词)
+singular(单数) and plural（复数） nouns（名词）  
+verbs （动词)  
